@@ -1,0 +1,2 @@
+# Letta local session state (machine-specific)
+.letta/settings.local.json
