@@ -1,4 +1,6 @@
 # Letta local session state (machine-specific)
 .letta/settings.local.json
+.letta/
+.notes/
 __pycache__/
 *.pyc
